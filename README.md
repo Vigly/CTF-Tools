@@ -26,24 +26,24 @@ Websites:
 - Dirbuster: https://sourceforge.net/projects/dirbuster/
 - Gobuster: https://github.com/OJ/gobuster
 - Wfuzz: https://github.com/xmendez/wfuzz
-- https://github.com/ffuf/ffuf
+- Fuff: https://github.com/ffuf/ffuf
 
-# Vulnerability Analysis
+## Vulnerability Analysis
 
-# Password Attacks
+## Password Attacks/Hash Cracking
 
-# Exploitation
+## Exploitation
 
-# Privilege Escalation
+## Privilege Escalation
 
-# Post-Exploitation
+## Post-Exploitation
 
-# Reporting
+## Reporting
 
-## CTF Tools
+# CTF Tools
 
-# Steganography
+## Steganography
 
-# Cryptography
+## Cryptography
 
-# Windows Forensics
+## Windows Forensics
