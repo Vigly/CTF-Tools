@@ -51,11 +51,18 @@ Useful tools for CTF and Pentesting.
 - Metasploit: https://www.metasploit.com/
 - SQLMap: https://github.com/sqlmapproject/sqlmap
 
+## Remote Access
+#### Windows
+- Evil-WinRM: https://github.com/Hackplayers/evil-winrm
+
+#### Linux
+
 ## Privilege Escalation
 #### Windows
 - BloodHound: https://github.com/BloodHoundAD/BloodHound
 - JAWS: https://github.com/411Hall/JAWS
 - RottenPotato: https://github.com/breenmachine/RottenPotatoNG
+- Seatbelt: https://github.com/GhostPack/Seatbelt
 - Session Gopher: https://github.com/Arvanaghi/SessionGopher
 - Windows Exploit Suggester: https://github.com/AonCyberLabs/Windows-Exploit-Suggester
 - WinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS
